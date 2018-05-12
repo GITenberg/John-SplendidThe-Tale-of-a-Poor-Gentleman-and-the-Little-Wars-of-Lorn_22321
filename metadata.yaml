@@ -1,0 +1,27 @@
+_repo: John-SplendidThe-Tale-of-a-Poor-Gentleman-and-the-Little-Wars-of-Lorn_22321
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munro, Neil
+    alias: Foulis, Hugh
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '9862'
+    url: http://www.gutenberg.org/2009/agents/9862
+description: ''
+gutenberg_issued: '2007-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Charles I, 1625-1649 -- Fiction'
+title: 'John Splendid: The Tale of a Poor Gentleman, and the Little Wars of Lorn'
+url: http://www.gutenberg.org/ebooks/22321
